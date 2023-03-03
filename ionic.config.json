@@ -1,0 +1,7 @@
+{
+  "name": "ionic-capacitor-issue-6321",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
